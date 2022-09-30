@@ -1,0 +1,12 @@
+export { default as Inbox } from "./Inbox";
+export { default as AllMail } from "./AllMail";
+export { default as Chats } from "./Chats";
+export { default as Drafts } from "./Drafts";
+export { default as Important } from "./Important";
+export { default as Lists } from "./Lists";
+export { default as Scheduled } from "./Scheduled";
+export { default as Sent } from "./Sent";
+export { default as Snoozed } from "./Snoozed";
+export { default as Spam } from "./Spam";
+export { default as Starred } from "./Starred";
+export { default as Trash } from "./Trash";
